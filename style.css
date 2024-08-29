@@ -1,0 +1,14 @@
+.continar{
+  margin-bottom: 100px;
+}
+.carousel-item{
+  padding: 30px;
+} 
+.by-now{
+  background-image: linear-gradient(to bottom, #000000 0%, #000000FC 100%);
+  color: #FFFFFFFC;
+  border: none;
+  border-radius: 5px;
+  padding: 9px 250x;
+  cursor: pointer
+}
