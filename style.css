@@ -12,3 +12,14 @@
   padding: 9px 250x;
   cursor: pointer
 }
+.cetago{
+  text-align: center;
+}
+.order img{
+  height: 350px;
+  white: 350px;
+}
+.card{
+  box-shadow: gray 5px 5px 10px;
+  border-radius: 10px;
+}
